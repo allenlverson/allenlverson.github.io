@@ -4,6 +4,7 @@ title: 新的开始
 <blockquote class="blockquote-center">我按我自己的方式活着，按我自己的方式打球。我发誓我从未疲倦过!
  
                                                      艾弗森</blockquote>
+<img src="/uploads/ai1.jpg" />
 
 <!-- Built-in tag (Require NexT 0.4.5 or above) -->
 
