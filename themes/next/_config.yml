@@ -27,8 +27,8 @@ rss:
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
+  about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -79,7 +79,7 @@ sidebar: post
 
 # Social links
 # social:
-  #GitHub:
+  GitHub:
   #Others:
 
 # Social Icons
