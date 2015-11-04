@@ -1,4 +1,5 @@
 title: 新的开始
+tag: 随笔
 ---
  <!-- HTML -->
 <blockquote class="blockquote-center">我按我自己的方式活着，按我自己的方式打球。我发誓我从未疲倦过!
