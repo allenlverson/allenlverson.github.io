@@ -68,6 +68,12 @@ avatar: /uploads/avatar.jpg
 ## Themes: http://hexo.io/themes/
 theme: next
 
+#duoshuo_shortname
+duoshuo_shortname: zengyan03
+
+#baidu_analytics
+baidu_analytics: 5eee7890b842c7bd52523ee6d398855a
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
