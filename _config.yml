@@ -74,6 +74,15 @@ duoshuo_shortname: zengyan03
 #baidu_analytics
 baidu_analytics: 5eee7890b842c7bd52523ee6d398855a
 
+#since
+since: 2015
+
+# Social links
+social:
+  github: https://github.com/allenlverson
+  weibo: http://weibo.com/allenxiaoai
+  # 等等
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
