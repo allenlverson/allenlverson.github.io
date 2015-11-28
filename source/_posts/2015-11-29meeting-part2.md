@@ -10,11 +10,11 @@ tags:
 
 ---
  <!-- HTML -->
-<blockquote class="blockquote-center">我们像只野马一样在这城市里流淌 浪费了太阳也从不感到悲伤.
+<blockquote class="blockquote-center">城市慷慨，亮整夜光。
  
-                                                  [猛犸] 后海大鲨鱼</blockquote>
+                                                  [历历万乡] 陈粒</blockquote>
 
-<img src="/uploads/mengma.jpg" />
+<img src="/uploads/pic03.jpeg" />
 <!--more-->
 # 项目实战
 实验室网站项目中所用的开发技术
