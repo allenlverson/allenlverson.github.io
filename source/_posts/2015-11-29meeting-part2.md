@@ -1,7 +1,8 @@
 title: 2015-11-29meeting-part2
 date: 2015-11-28 15:13:46
+categories:
+  - web开发
 tags:
----
   - nodejs
   - javascript
   - mongodb
