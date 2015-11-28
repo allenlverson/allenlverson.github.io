@@ -13,7 +13,7 @@ tags:
  
                                                   改编自[Rather Be] 曾䶮</blockquote>
 
-<img src="/uploads/pic01.jpg" style="width:80%;height:80%" />
+<img src="/uploads/pic01.jpg" />
 <!--more-->
 
 # web开发漫谈
