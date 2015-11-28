@@ -44,7 +44,7 @@ Express 是一个基于 Node.js 平台的极简、灵活的 web 应用开发框�
 路由方法源于 HTTP 请求方法，和 express 实例相关联。
 路由路径和请求方法一起定义了请求的端点，它可以是字符串、字符串模式或者正则表达式。
 中间件：Express 是一个自身功能极简，完全是由路由和中间件构成一个的 web 开发框架：从本质上来说，一个 Express 应用就是在调用各种中间件。
-### 中间件（Middleware） 
+#### 中间件（Middleware） 
 中间件（Middleware） 是一个函数，它可以访问请求对象（request object (req)）, 响应对象（response object (res)）, 和 web 应用中处于请求-响应循环流程中的中间件，一般被命名为 next 的变量。
 中间件的功能包括：
 1. 执行任何代码
